@@ -1,0 +1,16 @@
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.exe
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.deps.json
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.dll
+G:\Projects\VSProjects\lab1\lab2\bin\Debug\net5.0\lab2.pdb
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.dll
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\refint\lab2.dll
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.pdb
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
+G:\Projects\VSProjects\lab1\lab2\obj\Debug\net5.0\ref\lab2.dll
