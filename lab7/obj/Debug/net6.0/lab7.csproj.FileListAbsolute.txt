@@ -1,0 +1,15 @@
+G:\8c\введение\rus\lab7\bin\Debug\net6.0\lab7.exe
+G:\8c\введение\rus\lab7\bin\Debug\net6.0\lab7.deps.json
+G:\8c\введение\rus\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+G:\8c\введение\rus\lab7\bin\Debug\net6.0\lab7.dll
+G:\8c\введение\rus\lab7\bin\Debug\net6.0\lab7.pdb
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.dll
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\refint\lab7.dll
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.pdb
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+G:\8c\введение\rus\lab7\obj\Debug\net6.0\ref\lab7.dll
